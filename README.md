@@ -15,14 +15,13 @@
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bkabhi&show_icons=true&theme=dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkabhi&layout=compact&theme=dark" />
 </div>
  <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=bkabhi&theme=react-dark" alt="activitygraph&theme=dark" /> 
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkabhi&theme=dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=bkabhi&theme=dark" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bkabhi&theme=vue" alt="summarycard"/> </p>
+<p align=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkabhi&theme=dark" alt=""/></p>
+<p align="" ><img src="https://github-profile-trophy.vercel.app/?username=bkabhi&theme=dark" alt=""/> </p>
+<p align=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bkabhi&theme=vue" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
