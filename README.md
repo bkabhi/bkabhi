@@ -21,11 +21,6 @@
 <br />
 <p align=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkabhi&theme=dark" alt=""/></p>
 <p align="" ><img src="https://github-profile-trophy.vercel.app/?username=bkabhi&theme=dark" alt=""/> </p>
-<p align=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bkabhi&theme=vue" alt="summarycard"/> </p>
-<hr />
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
 <br>
 <h3 align="center"> 
   Visitor count <br>
