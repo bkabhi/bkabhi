@@ -5,7 +5,10 @@
 - 📫 How to reach me ...
 
 
-
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Data+Structures+and+Algorithms;Nice+to+meet+you...)
+  <br>
+  
+  
 
 <h2>📊 Github Stats</h2>
 <br/>
