@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bkabhi (Abhijeet Sagar)
-- 👀 I’m interested in coding and solving DSA problems. <a href="https://leetcode.com/bkabhijeet/" target="_blank">LeetCode<a/>, <a href="https://auth.geeksforgeeks.org/user/bkabhijeet/ target="_blank">GFG<a/>,
+- 👀 I’m interested in coding and solving DSA problems. <a href="https://leetcode.com/bkabhijeet/" target="_blank">LeetCode<a/>, 
+ <a href="https://auth.geeksforgeeks.org/user/bkabhijeet/" target="_blank"> GFG <a/>
 - 🌱 I’m currently learning MERN Stack and DSA.
 - 💞️ I’m looking to collaborate for Projects.
 - 📫 How to reach me <a>bloggerbkabhi@gmail.com</a>
