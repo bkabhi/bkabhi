@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @bkabhi (Abhijeet Sagar)
-- 👀 I’m interested in coding and solving DSA problems. <a href="https://leetcode.com/bkabhijeet/" target="_blank">LeetCode<a/>, 
- <a href="https://auth.geeksforgeeks.org/user/bkabhijeet/" target="_blank"> GFG <a/>
+- 👀 I’m interested in coding and solving DSA problems. 
+<!-- <a href="https://leetcode.com/bkabhijeet/" target="_blank">LeetCode<a/>, 
+ <a href="https://auth.geeksforgeeks.org/user/bkabhijeet/" target="_blank"> GFG <a/> -->
 - 🌱 I’m currently learning MERN Stack and DSA.
 - 💞️ I’m looking to collaborate for Projects.
-- 📫 How to reach me <a href='https://drive.google.com/file/d/1jkXilROImeXoUx0U3Pn_U3wB_sdRTcno/view' target="_blank">Resume</a>
+- 📫 How to reach me <a href='https://abhijeet-kumar-portfolio.netlify.app' target="_blank">Portfolio</a>
 
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Data+Structures+and+Algorithms;Nice+to+meet+you...)
