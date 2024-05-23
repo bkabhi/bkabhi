@@ -50,6 +50,9 @@
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="json" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+<!--  <img src="" />&nbsp;&nbsp; -->
 </p>
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
@@ -76,7 +79,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bkabhi&show_icons=true&theme=dark" />
 </div>
  <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=bkabhi&theme=react-dark" alt="activitygraph&theme=dark" /> 
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=bkabhi&theme=react-dark" alt="activitygraph&theme=dark" />  -->
 <br />
 <p align=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkabhi&theme=dark" alt=""/></p>
 <p align="" ><img src="https://github-profile-trophy.vercel.app/?username=bkabhi&theme=dark" alt=""/> </p>
