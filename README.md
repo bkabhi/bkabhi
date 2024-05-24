@@ -48,19 +48,16 @@
 - Developed BOM Management Solutions for efficient electronic component quoting
 - Created BOM creation and component addition features using React and Node.js
 - Utilized MongoDB for database management
-- [BOM Tool - Electrade](#)
 
 #### Vendor Portal - Electrade
 - Implemented a vendor portal to streamline product quotation submission, reducing communication overhead.
 - Developed an automated system for purchase order generation, minimizing manual intervention in procurement workflows.
 - Built with React, Node.js, and MongoDB, contributing as a full-stack developer.
-- [Vendor Portal - Electrade](#)
 
 #### SPDASH
 - Ensured responsive web design and optimized the application for different screen sizes.
 - Developed a sales procurement dashboard using React, Node.js, and MongoDB.
 - Contributed as a full-stack developer, working with both frontend and backend technologies.
-- [SPDASH](#)
 
 ---
 
