@@ -6,7 +6,7 @@
  <a href="https://auth.geeksforgeeks.org/user/bkabhijeet/" target="_blank"> GFG <a/>
 - 🌱 I’m currently learning MERN Stack and DSA.
 - 💞️ I’m looking to collaborate for Projects.
-- 📫 How to reach me <a href='https://bkabhi.netlify.app' target="_blank">Portfolio</a>
+- 📫 How to reach me <a href='https://abhijeet.bkabhi.com' target="_blank">Portfolio</a>
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Data+Structures+and+Algorithms;Nice+to+meet+you...)
   <br>
@@ -21,10 +21,10 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   <a href="mailto:bloggerbkabhi@gmail.com" target="_blank">
-<img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
+<img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
  </a>
- <a href="https://bkabhi.netlify.app/" target="_blank">
-<img src="https://camo.githubusercontent.com/fbe065fbc7632dd0e34d672a4c2a81ece685f2dc3b44365e507a860e615c1f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7274666f6c696f2d3141413236303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
+ <a href="https://abhijeet.bkabhi.com/" target="_blank">
+<img src="https://camo.githubusercontent.com/9ce93b63e600bb564f49b2adc53db573c56b9b61d0439ac7ce7a686dc24b1091/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" t=portfolio style="margin-bottom: 5px;" />
  </a>
  
 <!-- <a href="https://twitter.com/" target="_blank">
