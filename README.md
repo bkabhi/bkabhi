@@ -92,22 +92,22 @@
 </p>
 <hr>
 
-<h2>📊 Github Stats</h2>
+<!-- <h2>📊 Github Stats</h2>
 <br/>
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bkabhi&show_icons=true&theme=dark" />
 </div>
- <br />
+ <br /> -->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=bkabhi&theme=react-dark" alt="activitygraph&theme=dark" />  -->
-<br />
+<!-- <br />
 <p align=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkabhi&theme=dark" alt=""/></p>
 <p align="" ><img src="https://github-profile-trophy.vercel.app/?username=bkabhi&theme=dark" alt=""/> </p>
 <br>
 <h3 align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/bkabhi/count.svg" />
-</h3>
+</h3> -->
 
 <!---
 bkabhi/bkabhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
