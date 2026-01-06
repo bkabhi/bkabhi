@@ -40,26 +40,60 @@
 
 ## Experience
 
-### Software Development Engineer - 1
-#### HatchnHack Solutions Private Limited (Electrade) | Delhi Jan 2023 - Present
-- Handle requirements from the product and business side. Breaking down problems, gauging impact and identifying the tradeoffs by accounting for resources, creating implementation docs, and managing timelines. End to end delivery of the tasks.
+### Full Stack Developer
 
-#### BOM Tool - Electrade
-- Developed BOM Management Solutions for efficient electronic component quoting
-- Created BOM creation and component addition features using React and Node.js
-- Utilized MongoDB for database management
+#### Quess Corp | PwC | Remote
 
-#### Vendor Portal - Electrade
-- Implemented a vendor portal to streamline product quotation submission, reducing communication overhead.
-- Developed an automated system for purchase order generation, minimizing manual intervention in procurement workflows.
-- Built with React, Node.js, and MongoDB, contributing as a full-stack developer.
+**Oct 2025 – Dec 2025 | Full-time**
+
+* Worked on **Salesforce Commerce Cloud (SFCC)** and **PWA Kit** for the **Boots UK** project.
+* Developed and maintained scalable storefront features following SFCC best practices.
+* Collaborated with PwC stakeholders to deliver high-quality, production-ready commerce solutions.
+* Contributed to performance optimization and code quality improvements in a fast-paced enterprise environment.
+
+### Software Developer
+
+#### TejMinds Software Pvt. Ltd. | Pune
+
+**Aug 2024 – Aug 2025 | Full-time**
+
+* Developed a **File Manager** and **One-Time Campaign creation** system with custom contact import, reducing validation errors by **45%**.
+* Integrated **Salesforce, HubSpot, Klaviyo, Google Sheets, and Zapier**, reducing manual data entry time by **60%**.
+* Built **Dynamic Entity and Field Creation tools**, cutting support queries by **35%**.
+* Delivered interactive **Dashboards and Analytics pages**, improving decision-making efficiency by **40%**.
+* Worked extensively with **React, Node.js, MongoDB, and REST APIs** to deliver scalable SaaS features.
+
+
+### Software Development Engineer – I
+
+#### HatchnHack Solutions Private Limited (Electrade) | Delhi
+
+**Jan 2023 – May 2024**
+
+* Handle requirements from product and business teams by breaking down complex problems, assessing impact, identifying trade-offs, and planning implementations.
+* Create detailed implementation documents, manage timelines, and ensure end-to-end delivery of features.
+* Collaborate closely with cross-functional teams to deliver scalable and maintainable solutions.
+
+#### BOM Tool – Electrade
+
+* Developed a **BOM (Bill of Materials) Management System** for efficient electronic component quoting.
+* Implemented BOM creation, component addition, and editing features using **React** and **Node.js**.
+* Designed and managed schemas using **MongoDB** to handle large datasets efficiently.
+* Improved quotation accuracy and reduced manual effort for procurement teams.
+
+#### Vendor Portal – Electrade
+
+* Built a vendor portal to streamline quotation submissions and reduce communication overhead.
+* Developed an automated **Purchase Order generation system**, minimizing manual intervention in procurement workflows.
+* Worked as a **full-stack developer** using **React, Node.js, and MongoDB**.
+* Improved vendor response time and overall procurement efficiency.
 
 #### SPDASH
-- Ensured responsive web design and optimized the application for different screen sizes.
-- Developed a sales procurement dashboard using React, Node.js, and MongoDB.
-- Contributed as a full-stack developer, working with both frontend and backend technologies.
 
----
+* Developed a **Sales & Procurement Dashboard** with real-time insights.
+* Ensured responsive UI and optimized performance across multiple screen sizes.
+* Built APIs and frontend components using **React, Node.js, and MongoDB**.
+* Contributed across frontend and backend as a full-stack developer.
 
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
