@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-## Hi, I’m Abhijeet Sagar (@BkAbhi)
+## Hi, I’m Abhijeet Sagar
 - 👀 I’m interested in coding and solving DSA problems.
 - <a href="https://leetcode.com/bkabhijeet/" target="_blank">LeetCode<a/>, 
  <a href="https://auth.geeksforgeeks.org/user/bkabhijeet/" target="_blank"> GFG <a/>
