@@ -126,6 +126,23 @@
 </p>
 <hr>
 
+![](https://komarev.com/ghpvc/?username=bkabhi&color=blue)
+
+<!-- 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bkabhi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bkabhi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+-->
+
+
 <!-- <h2>📊 Github Stats</h2>
 <br/>
 
